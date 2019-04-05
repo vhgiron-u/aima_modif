@@ -1,3 +1,6 @@
+Esto originalmente no es mio, ire subiendo los cambios que hago aqui.
+
+
 <div align="center">
   <a href="http://aima.cs.berkeley.edu/"><img src="https://raw.githubusercontent.com/aimacode/aima-python/master/images/aima_logo.png"></a><br><br>
 </div>
